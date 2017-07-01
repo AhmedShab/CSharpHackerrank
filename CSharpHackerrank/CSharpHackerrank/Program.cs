@@ -10,9 +10,13 @@ namespace CSharpHackerrank
 	{
 		static void Main(string[] args)
 		{
-			MinMaxSum.MiniMaxSum miniMax = new MinMaxSum.MiniMaxSum();
+			//MinMaxSum.MiniMaxSum miniMax = new MinMaxSum.MiniMaxSum();
 
-			Console.WriteLine(miniMax.SolveMinMax());
+			//Console.WriteLine(miniMax.SolveMinMax());
+
+			BirthdayCakeCandles cakeCandle = new BirthdayCakeCandles();
+
+			cakeCandle.SolveCakeCandle();
 		}
 	}
 }
