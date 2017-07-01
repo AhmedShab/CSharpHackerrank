@@ -14,9 +14,13 @@ namespace CSharpHackerrank
 
 			//Console.WriteLine(miniMax.SolveMinMax());
 
-			BirthdayCakeCandles cakeCandle = new BirthdayCakeCandles();
+			//BirthdayCakeCandles cakeCandle = new BirthdayCakeCandles();
 
-			cakeCandle.SolveCakeCandle();
+			//cakeCandle.SolveCakeCandle();
+
+			TimeConversion time = new TimeConversion();
+
+			time.SolveTimeConversion();
 		}
 	}
 }
