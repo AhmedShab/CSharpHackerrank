@@ -18,9 +18,13 @@ namespace CSharpHackerrank
 
 			//cakeCandle.SolveCakeCandle();
 
-			TimeConversion time = new TimeConversion();
+			//TimeConversion time = new TimeConversion();
 
-			time.SolveTimeConversion();
+			//time.SolveTimeConversion();
+
+			SuperReducedString reducedString = new SuperReducedString();
+
+			reducedString.SolveSuperReducedString();
 		}
 	}
 }
